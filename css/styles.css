@@ -8,7 +8,13 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #bdecb6;
+}
+
+h1{
+	color:darkslategray;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -18,11 +24,11 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ffffff;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #bdecb6;
 }
 
 /* Styles for lists in the document */
